@@ -63,17 +63,7 @@
 
 ---
 
-## 📃 授權 License
-
-本專案依照 [MIT License](LICENSE) 授權，歡迎自由使用與修改。
-
----
-
 ## 🤝 貢獻與回饋
 
 如有任何問題、建議或錯誤回報，歡迎透過 [GitHub Issue](https://github.com/your-repo/issues) 提出，或提交 Pull Request。
 
----
-
-開發者：`你的名字`  
-📬 聯絡方式：`你的聯絡資訊（可選）`
